@@ -70,7 +70,7 @@ def sendmail():
 
       #发送邮件参数设置   
     sender = '291109028@qq.com'#发送者邮箱
-    password = 'fymphheytkutbibe'#发送者邮箱授权码
+    password = ''#发送者邮箱授权码
     smtp_ip='smtp.qq.com'#smtp服务器ip,根据发送者邮箱而定
     receiver = ['291109028@qq.com']#接收者邮箱 
     title='us_js指数成分股'#邮件主题
